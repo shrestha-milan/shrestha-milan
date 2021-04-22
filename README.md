@@ -1,4 +1,6 @@
-### Hello there 👋, My name is _Milan Shrestha_
+<img align="center" src="/static/images/cover.png" alt="shrestha-milan" height="300" width="100%" />
+
+<h1 align="center">Hello & Namaste 👋🙏, My name is _Milan Shrestha_</h1>
 
 
 
