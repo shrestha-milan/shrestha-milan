@@ -11,5 +11,5 @@
 - 🤔 I’m looking for help with **Back end technologies**
 - 💬 Ask me about **Front end UI, Graphic Design**
 - 📫 How to reach me:  **pasangsyangbo12@virinchicollege.edu.np and milon.stha88@gmail.com**
-- ⚡ Fun fact: **Photography and Videography are my passions too.**
+- ⚡ Fun fact: **Photography, Solo Travelling and MTB Cycling are my passions too.**
 
